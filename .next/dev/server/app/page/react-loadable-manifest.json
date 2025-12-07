@@ -1,0 +1,10 @@
+{
+  "[project]/src/components/scene/MainScene.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/scene/MainScene.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_1dd7f66a._.js",
+      "static/chunks/src_components_scene_MainScene_tsx_233e89e8._.js",
+      "static/chunks/src_components_scene_MainScene_tsx_e48f85a2._.js"
+    ]
+  }
+}
